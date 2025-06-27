@@ -1,12 +1,36 @@
-# React + Vite
+# 📝 Quote Generator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Quote Generator** is a simple and interactive web application that displays random inspirational, motivational, or famous quotes to users. With a clean and modern interface, users can generate new quotes at the click of a button—perfect for daily inspiration or sharing on social media.
 
-Currently, two official plugins are available:
+Built with **React** and **Vite** for fast performance and easy customization.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🎯 Displays random inspirational, motivational, or famous quotes
+- 🖱️ One-click button to generate a new quote
+- 📱 Responsive and modern UI
+- ⚡ Fast and lightweight thanks to React + Vite
+- 💬 Ideal for personal use, portfolios, or sharing on social media
+
+---
+
+## 🛠️ Tech Stack
+
+- [React](https://reactjs.org/) — Frontend UI framework
+- [Vite](https://vitejs.dev/) — Fast build tool and development server
+- [CSS Modules / Plain CSS] — 
+---
+
+## 📦 Installation
+
+Clone the repository and install the dependencies:
+
+```bash
+git clone https://github.com/your-username/quote-generator.git
+cd quote-generator
+npm install
+```
+![Capture d'écran 2025-05-27 133527](https://github.com/user-attachments/assets/88173a77-8611-4c4a-8151-a9eb43d17615)
+
